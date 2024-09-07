@@ -27,11 +27,11 @@ Try the web demo here: [Milk Quality Prediction Demo](........)
 1. Trained models (.pkl) import data_milknew.csv in /content
 
    ```
-   [https://colab.research.google.com/drive/1h2gtl2U3MVTc1guXan8zDbswDQI16vpR?usp=sharing]
+   https://colab.research.google.com/drive/1h2gtl2U3MVTc1guXan8zDbswDQI16vpR?usp=sharing
    ```
 
 2. Dataset for Milk Quality Prediction
 
    ```
-   [https://www.kaggle.com/datasets/cpluzshrijayan/milkquality]
+   https://www.kaggle.com/datasets/cpluzshrijayan/milkquality
    ```
