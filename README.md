@@ -27,7 +27,7 @@ Try the web demo here: [Milk Quality Prediction Demo](........)
 1. Trained models (.pkl) import data_milknew.csv in /content
 
    ```
-   [https://drive.google.com/drive/folders/10qhntIBKuMQQ7mL81LjO0fu6wDqzGUtp?usp=sharing](https://colab.research.google.com/drive/1h2gtl2U3MVTc1guXan8zDbswDQI16vpR?usp=sharing)
+   [https://colab.research.google.com/drive/1h2gtl2U3MVTc1guXan8zDbswDQI16vpR?usp=sharing]
    ```
 
 2. Dataset for Milk Quality Prediction
