@@ -10,7 +10,7 @@ Try the web demo here: [Milk Quality Prediction Demo](........)
 
 ### ★ | How to run it on your own machine
 
-1. Install the requirements
+1. Install the requirements (python 3.12)
 
    ```
    pip install -r requirements.txt
