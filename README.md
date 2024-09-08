@@ -35,3 +35,5 @@ Try the web demo here: [Milk Quality Prediction Demo](........)
    ```
    https://www.kaggle.com/datasets/cpluzshrijayan/milkquality
    ```
+
+### ---- you can use TrainML.ipynb file for train new model. ----
