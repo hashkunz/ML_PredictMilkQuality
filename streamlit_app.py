@@ -9,6 +9,7 @@ columns = load('models/columns.pkl')
 
 # Title of the app
 st.title("Milk Quality Prediction")
+st.write("Generally, the Grade or Quality of the milk depends on these parameters. These parameters play a vital role in the predictive analysis of the milk. And if Taste, Odor, Fat, and Turbidity are satisfied with optimal conditions then they will assign 1 otherwise 0.")
 
 # Create two columns for input fields
 col1, col2 = st.columns(2)
