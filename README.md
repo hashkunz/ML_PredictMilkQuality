@@ -5,7 +5,7 @@ This dataset consists of 7 independent variables ie pH, Temperature, Taste, Odor
 Generally, the Grade or Quality of the milk depends on these parameters. These parameters play a vital role in the predictive analysis of the milk.
 
 ### ★ | Web Demo Streamlit
-Try the web demo here: [Milk Quality Prediction Demo](........)
+Try the web demo here: [Milk Quality Prediction Demo](https://predictmilkquality.streamlit.app/)
 
 
 ### ★ | How to run it on your own machine
