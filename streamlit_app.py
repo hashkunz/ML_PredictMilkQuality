@@ -21,7 +21,7 @@ with col1:
 
 # Get user inputs in the second column
 with col2:
-    temperature = st.number_input('Temperature (0-50)', min_value=0, max_value=50, value=0)
+    temperature = st.number_input('Temperature (0-100)', min_value=0, max_value=100, value=0)
     fat = st.selectbox('Fat (True: 1, False: 0)', [0, 1])
     turbidity = st.selectbox('Turbidity (True: 1, False: 0)', [0, 1])
 
